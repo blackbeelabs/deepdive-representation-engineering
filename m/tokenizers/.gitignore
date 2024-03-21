@@ -1,0 +1,6 @@
+!.gitignore
+**.safetensors
+**.md
+**.model
+**.json
+**.txt
