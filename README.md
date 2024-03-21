@@ -1,3 +1,15 @@
+Credits:
+Notes
+- https://vgel.me/posts/representation-engineering/
+- https://github.com/vgel/repeng
+- https://colab.research.google.com/drive/1IuK5DIRzbtwucYL-t1Y9yWghfJG1fFM0?usp=sharing
+- https://tana.pub/OG9hf2MA4tNS/representation-engineering-101
+
+The Hidden Life of Embeddings
+- https://www.youtube.com/watch?v=YvobVu1l7GI
+
+My notes:
+- https://www.notion.so/blackbeelabs/The-Hidden-Life-of-Embeddings-2023-5ec54d067c904a11a8069f955f02d506?pvs=4
 To initialise environment
 
 ```
