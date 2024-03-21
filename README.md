@@ -10,6 +10,7 @@ The Hidden Life of Embeddings
 
 My notes:
 - https://www.notion.so/blackbeelabs/The-Hidden-Life-of-Embeddings-2023-5ec54d067c904a11a8069f955f02d506?pvs=4
+
 To initialise environment
 
 ```
